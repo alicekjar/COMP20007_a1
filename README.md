@@ -1,6 +1,6 @@
 # COMP20007 - Assignment 1
 
-This assignment was completed as an assessment piece for COMP20007 (Design of Algorithms). It consists of two part, each of which can be broken down into several sub-problems.
+This assignment was completed as an assessment piece for COMP20007 (Design of Algorithms). It consists of two parts, each of which can be broken down into several sub-problems.
 
 Both parts 1 and 2 received full marks upon grading.
 
